@@ -6,9 +6,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/probaku1234/bookings/pkg/config"
-	"github.com/probaku1234/bookings/pkg/models"
-	"github.com/probaku1234/bookings/pkg/render"
+	"github.com/probaku1234/bookings/internal/config"
+	"github.com/probaku1234/bookings/internal/models"
+	"github.com/probaku1234/bookings/internal/render"
 )
 
 

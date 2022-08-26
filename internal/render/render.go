@@ -8,8 +8,8 @@ import (
 	"text/template"
 
 	"github.com/justinas/nosurf"
-	"github.com/probaku1234/bookings/pkg/config"
-	"github.com/probaku1234/bookings/pkg/models"
+	"github.com/probaku1234/bookings/internal/config"
+	"github.com/probaku1234/bookings/internal/models"
 )
 
 var functions = template.FuncMap {

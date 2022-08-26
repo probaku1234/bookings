@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"log"
-	"github.com/probaku1234/bookings/pkg/config"
-	"github.com/probaku1234/bookings/pkg/handlers"
-	"github.com/probaku1234/bookings/pkg/render"
+	"github.com/probaku1234/bookings/internal/config"
+	"github.com/probaku1234/bookings/internal/handlers"
+	"github.com/probaku1234/bookings/internal/render"
 	"net/http"
 	"time"
 

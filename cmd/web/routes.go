@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/probaku1234/bookings/pkg/config"
-	"github.com/probaku1234/bookings/pkg/handlers"
+	"github.com/probaku1234/bookings/internal/config"
+	"github.com/probaku1234/bookings/internal/handlers"
 	"net/http"
 
 	"github.com/go-chi/chi/v5"
